@@ -24,6 +24,7 @@ py imequ2fish.py -s 'your_source_directory' -d 'your_destination_directory'
 You may also want to specify the aperture of the image in degrees using the `-a` option or the number of process to start in multiprocessing by using the `-p` option
 
 ## License
+```
 Copyright (c) 2021 helllayde
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -43,3 +44,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
